@@ -1,5 +1,5 @@
-# Insightful - News App
-Insightful is a **World News App** in which you can get any news of your choices by searching and you can see the trending news on the home page. It fetches news from **NewsAPI.org** and display it on screen in designed way. Try out Insightful !!
+# News App
+News app is a **World News App** in which you can get any news of your choices by searching and you can see the trending news on the home page. It fetches news from **NewsAPI.org** and display it on screen in designed way. Try out Insightful !!
 <br> <br>
 ***NewsAPI doesn't fetches news on deployment as it restricts so you can run this project locally :)***
 <hr>
@@ -18,31 +18,4 @@ https://expanding-cards-web.vercel.app/-->
  <hr>
 
 ## Screenshots
-
-<hr>
-
-## Run Locally
-Clone the project
-
-```bash
-  git clone https://github.com/Chirag047/Insightful-News-App.git
-```
-Go to the project directory
-
-```bash
-  cd Insightful-News-App
-```
-Start the development by running file index.html with live server extension.
-
-<hr>
-  
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Chirag_Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragnagar047/)
-[![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chirag047)
-
-[@Chirag047](https://github.com/Chirag047)
-
 
